@@ -1,3 +1,3 @@
 # QuizzlerApp - Simple Quiz App on iOS Platform
 
-![QuizlerAppInterface](QuizlerApp.png)
+![QuizlerAppInterface](quizlerApp.png)
